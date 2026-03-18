@@ -7,10 +7,9 @@ body{
 }
 
 #calculadora{
-    width: 408px;
+    width: 300px;
     background-color: rgb(0, 0, 0);
-    margin: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
     overflow: hidden;
 }
 
@@ -32,7 +31,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100px;
     height: 60px;
     color: rgb(0, 0, 0);
     font-weight: bold;
@@ -41,7 +39,6 @@ body{
     border: none;
     outline: none;
     margin: 1px;
-
 }
 
 .zero{
